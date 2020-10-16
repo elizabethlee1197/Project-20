@@ -1,2 +1,2 @@
-# Project-20
-This is a project to detect the collison between two objects.
+# p5.play-boilerplate
+Boiler plate for p5.play
